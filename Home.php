@@ -51,20 +51,24 @@
     //     echo $names[$i]."<br>";
     //  }
 
-// examaple of associative array to store information
+// example of associative array to store information
     $info = array(
         "id"   => "100",
-        "name" => shuceyb,
+        "name" => "shueyb",
         "age"  =>  35,
         "weight" => 160.5,
         );          
 
         //display the information
 
-        // echo "pre";
-        // // echo "";
-        print_r($info);
+        
+        // echo " $info";  //not work b/c 
+
+        // echo $info["name"];
+
+        // print_r($info);
         // var_dump($info);
+        
         
 
 ?>
