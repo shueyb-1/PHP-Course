@@ -7,6 +7,23 @@
 </head>
 <body>
 <?php
+
+
+    //Tags Php 
+
+    //Echo - Display the output
+    echo "Welcome to PHP";
+    //use prenthesis is optional
+    echo ("Welcome to PHP");
+    //print also use the output
+    print "Welcome to Php";
+    // use prenthesis is optional
+    print ("Welcome to Php");
+
+    //Echo to display to argument without presenthesis 
+    echo "shuceyb" , "xaynoof" ;
+
+
 // $Age=20;
 // if($Age>=18)
 //     echo "adult";
@@ -52,12 +69,12 @@
     //  }
 
 // example of associative array to store information
-    $info = array(
-        "id"   => "100",
-        "name" => "shueyb",
-        "age"  =>  35,
-        "weight" => 160.5,
-        );          
+    // $info = array(
+    //     "id"   => "100",
+    //     "name" => "shueyb",
+    //     "age"  =>  35,
+    //     "weight" => 160.5,
+    //     );          
 
         //display the information
 
