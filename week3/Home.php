@@ -6,10 +6,25 @@
     <title>Document</title>
 </head>
 <body>
-
+    <table></table>
 
     <?php
     
+    // creating Array (Numeric Index Array)
+    $info =array(
+        "shuceyb",
+        "Ali",
+        "Asad",
+        "Xassan",
+        "Jamac"
+    );
+
+    echo"Array element are: <br>";
+
+    foreach($info as $list)
+       
+
+    echo ("$list,") ."<br>";
     
 
     
