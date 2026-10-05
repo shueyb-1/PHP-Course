@@ -60,18 +60,19 @@
 
 
 
+function test($x,$y)
 
-function sum($x ,$y){
+{
 
-$z= $k + $y
+$z=$x+ $y;
+
+echo $z ;
 
 
     
 }
 
-
-
-
+test(10,20);
 
 
     
